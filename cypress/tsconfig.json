@@ -1,0 +1,17 @@
+{
+  "extends": "../tsconfig.app.json",
+  "compilerOptions": {
+    "baseUrl": "./",
+    "sourceMap": false,
+    "outDir": "../node_modules/_cypress/tsc",
+    "target": "es2018",
+    "types": [
+      "cypress",
+      "node"
+    ]
+  },
+  "include": [
+    "./../cypress*.config.ts",
+    "./**/*.ts"
+  ]
+}

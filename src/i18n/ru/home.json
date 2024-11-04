@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Добро пожаловать, Java Hipster!",
+    "subtitle": "Это ваша домашняя страница",
+    "logged": {
+      "message": "Вы вошли как пользователь \"{{username}}\"."
+    },
+    "github": "GitHub"
+  }
+}
