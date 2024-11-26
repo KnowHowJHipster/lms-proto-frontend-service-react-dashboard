@@ -133,7 +133,7 @@
     "eslint-plugin-sonarjs": "^2.0.4",
     "folder-hash": "4.0.4",
     "glob": "^11.0.0",
-    "globals": "^15.11.0",
+    "globals": "^15.12.0",
     "husky": "^9.1.6",
     "identity-obj-proxy": "3.0.0",
     "jsdom": "^25.0.1",
