@@ -142,7 +142,7 @@
     "lighthouse": "12.2.2",
     "lint-staged": "^15.2.10",
     "mini-css-extract-plugin": "2.9.2",
-    "nx": "^20.1.4",
+    "nx": "^20.2.0",
     "nyc": "^17.1.0",
     "postcss-loader": "8.1.1",
     "prettier": "^3.3.3",
