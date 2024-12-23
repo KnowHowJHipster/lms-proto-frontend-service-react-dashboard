@@ -140,7 +140,7 @@
     "json-loader": "0.5.7",
     "lerna": "^8.1.9",
     "lighthouse": "12.2.2",
-    "lint-staged": "^15.2.10",
+    "lint-staged": "^15.2.11",
     "mini-css-extract-plugin": "2.9.2",
     "nx": "^20.2.1",
     "nyc": "^17.1.0",
