@@ -81,7 +81,7 @@
     "redux-persist": "^6.0.0",
     "tslib": "2.8.1",
     "uuid": "11.0.3",
-    "yup": "^1.5.0"
+    "yup": "^1.6.1"
   },
   "devDependencies": {
     "@babel/plugin-transform-new-target": "^7.25.9",
