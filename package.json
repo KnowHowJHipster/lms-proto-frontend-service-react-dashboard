@@ -139,7 +139,7 @@
     "jsdom": "^25.0.1",
     "json-loader": "0.5.7",
     "lerna": "^8.1.9",
-    "lighthouse": "12.2.2",
+    "lighthouse": "12.3.0",
     "lint-staged": "^15.2.11",
     "mini-css-extract-plugin": "2.9.2",
     "nx": "^20.3.0",
