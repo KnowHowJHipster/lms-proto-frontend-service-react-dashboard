@@ -60,7 +60,7 @@
     "bootstrap-icons": "^1.11.3",
     "dayjs": "^1.11.10",
     "feather-icons": "^4.29.2",
-    "i18next": "^24.0.2",
+    "i18next": "^24.2.0",
     "lodash": "4.17.21",
     "miragejs": "^0.1.48",
     "path-browserify": "1.0.1",
