@@ -109,7 +109,7 @@
     "@vitest/coverage-istanbul": "^2.1.8",
     "autoprefixer": "10.4.20",
     "browser-sync": "3.0.3",
-    "concurrently": "9.1.0",
+    "concurrently": "9.1.2",
     "core-js": "3.39.0",
     "cross-env": "7.0.3",
     "css-loader": "7.1.2",
