@@ -93,7 +93,7 @@
     "@semantic-release/git": "^10.0.1",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.1.0",
-    "@types/lodash": "4.17.13",
+    "@types/lodash": "4.17.14",
     "@types/node": "22.10.5",
     "@types/react": "^18.3.13",
     "@types/react-dom": "^19.0.1",
