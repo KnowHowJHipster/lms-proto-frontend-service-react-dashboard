@@ -171,7 +171,7 @@
     "vite-plugin-static-copy": "2.2.0",
     "vitest": "^2.1.6",
     "vitest-sonar-reporter": "2.0.0",
-    "wait-on": "8.0.1"
+    "wait-on": "8.0.2"
   },
   "engines": {
     "node": ">=18.20.4"
