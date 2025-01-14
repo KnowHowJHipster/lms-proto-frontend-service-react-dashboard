@@ -160,7 +160,7 @@
     "sort-package-json": "^2.12.0",
     "source-map-loader": "5.0.0",
     "style-loader": "4.0.0",
-    "stylelint": "^16.13.0",
+    "stylelint": "^16.13.1",
     "stylelint-config-standard-scss": "^14.0.0",
     "thread-loader": "4.0.4",
     "ts-jest": "29.2.5",
