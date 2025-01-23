@@ -94,7 +94,7 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
     "@types/lodash": "4.17.14",
-    "@types/node": "22.10.7",
+    "@types/node": "22.10.9",
     "@types/react": "^19.0.7",
     "@types/react-dom": "^19.0.3",
     "@types/react-redux": "7.1.34",
