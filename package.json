@@ -113,7 +113,7 @@
     "core-js": "3.40.0",
     "cross-env": "7.0.3",
     "css-loader": "7.1.2",
-    "cypress": "^14.0.1",
+    "cypress": "^14.0.2",
     "cypress-audit": "1.1.0",
     "cypress-vite": "^1.6.0",
     "cz-conventional-changelog": "^3.3.0",
